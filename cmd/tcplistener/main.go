@@ -32,11 +32,6 @@ func main() {
 		log.Println("Connection has been closed.")
 	}
 
-	// lineChannel := GetLinesChannel()
-
-	// for line := range lineChannel {
-	// 	fmt.Printf("read: %s\n", line)
-	// }
 }
 
 
